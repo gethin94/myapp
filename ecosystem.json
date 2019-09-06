@@ -1,0 +1,7 @@
+{
+  "apps" : [{
+    "name"        : "someExpress4App",
+    "script"      : "./bin/www",
+    "watch"       : "../"
+  }]
+}
